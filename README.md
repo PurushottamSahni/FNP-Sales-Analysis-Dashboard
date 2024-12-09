@@ -68,3 +68,7 @@ This sales analysis dashboard provides insights into the performance of Ferns N 
 
 #### **Conclusion**
 This dashboard demonstrates FNP’s strong market position in the gifting industry, particularly during seasonal events. By leveraging these insights, FNP can further refine its business strategies to drive growth, improve customer experience, and expand its market reach.
+![Dashboar](https://github.com/user-attachments/assets/bcdb495f-ab27-4b1b-abc7-f3a42b95cf0c)
+
+
+![Dashboar](https://github.com/user-attachments/assets/fa5551df-f16f-4649-8d02-ea92e6aece30)
